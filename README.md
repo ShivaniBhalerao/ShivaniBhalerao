@@ -14,30 +14,44 @@
 
 <h2> Projects </h2>
 
-  <!-- First row -->
   <table border="none;">
   <tr>
   <div style="display: flex; flex-direction: row; justify-content: center; align-items: center; width: 100%;">
     <td><div style="width: 100%; text-align: center;">
-      <img src="https://github.com/ShivaniBhalerao/ShivaniBhalerao/blob/main/calendar_search.jpeg" alt="calendar_search_image" width="50%" height="50%">
+      <img src="https://github.com/ShivaniBhalerao/ShivaniBhalerao/blob/main/calendar_search.jpeg" alt="calendar_search_image" width="100%" height="100%">
       </div></td>
     <td><div style="width: 100%; text-align: center;">
       <p>
-        Calendar Search
+        <a href="https://github.com/ShivaniBhalerao/Calendar-Search-Application"> Calendar Search </a>
+        This project improves the search experience in calendar applications by developing an efficient calendar text search application using NLP techniques and a combination of synonym similarity score and Levenshtein distance
       </p>
       </div></td>
   </div>
   </tr>
 
-  <!-- Second row -->
   <tr>
   <div style="display: flex; flex-direction: row; justify-content: center; align-items: center; width: 50%; margin-top: 20px;">
     <td><div style="width: 100%; text-align: center;">
-      <img src="https://github.com/ShivaniBhalerao/ShivaniBhalerao/blob/main/connect4.png" alt="connect4_image" width="50%" height="50%">
+      <img src="https://github.com/ShivaniBhalerao/ShivaniBhalerao/blob/main/connect4.png" alt="connect4_image" width="100%" height="100%">
       </div></td>
     <td><div style="width: 100%; text-align: center;">
       <p>
-        Connect Four
+        <a href="https://github.com/ShivaniBhalerao/AI-Agent-Connect4"> AI Agent Connect4 </a>
+        Built AI agents for the connect-4 game using heuristics, decision tree, minimax with alpha-beta pruning, monte carlo and Q-learning algorithm
+      </p>
+      </div></td>
+  </div>
+  </tr>
+  
+  <tr>
+  <div style="display: flex; flex-direction: row; justify-content: center; align-items: center; width: 50%; margin-top: 20px;">
+    <td><div style="width: 100%; text-align: center;">
+      <img src="https://github.com/ShivaniBhalerao/ShivaniBhalerao/blob/main/task_tracker.jpeg" alt="Task_Tracker_Image" width="100%" height="100%">
+      </div></td>
+    <td><div style="width: 100%; text-align: center;">
+      <p>
+        <a href="https://github.com/ShivaniBhalerao/Task-Tracker-App"> Task Tracker App </a>
+        TaskTracker is a task delegation and reward-tracking app designed for people living with roommates or housemates. It allows users to assign individual tasks, monitor task status from a shared view, track rewards, and change coordinators cyclically to promote engagement. The goal of this project is to make sharing chores and tasks easier, more efficient, and more rewarding.
       </p>
       </div></td>
   </div>
