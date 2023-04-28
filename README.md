@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Shivani Bhalerao
 -----
-
+![alt text](https://github.com/ShivaniBhalerao/ShivaniBhalerao/blob/main/coding%20girl.png)
 
 <!--
 **ShivaniBhalerao/ShivaniBhalerao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-![alt text](Image url)
+![alt text](https://github.com/ShivaniBhalerao/ShivaniBhalerao/blob/main/coding%20girl.png)
 -->
