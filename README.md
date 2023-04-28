@@ -15,18 +15,18 @@
 <h2> Projects </h2>
 
 <div style="display: flex; flex-direction: row; justify-content: center; align-items: center; width: 100%;">
-    <div style="width: 50%; text-align: center;">
+    <div style="width: 50%; text-align: left;">
       <img src="project-image" alt="Project 1" width="80%">
     </div>
-    <div style="width: 50%; text-align: center;">
+    <div style="width: 50%; text-align: right;">
       <p>
         Project 1
       </p>
     </div>
-    <div style="width: 50%; text-align: center;">
+    <div style="width: 50%; text-align: left;">
       <img src="project-image2" alt="Project 2" width="80%">
     </div>
-    <div style="width: 50%; text-align: center;">
+    <div style="width: 50%; text-align: right;">
       <p>
         Project 2
       </p>
