@@ -1,7 +1,7 @@
 ### <h1 align="center"> Hi there 👋 I'm Shivani Bhalerao </h1>
 
 <p align="center">
-  <img width="460" height="250" src="https://github.com/ShivaniBhalerao/ShivaniBhalerao/blob/main/download.png">
+  <img src="https://github.com/ShivaniBhalerao/ShivaniBhalerao/blob/main/download.png">
 </p>
 
 <b> Passionate about leveraging tech to create high-impact solutions 🌐 </b>
