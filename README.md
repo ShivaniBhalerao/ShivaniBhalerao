@@ -1,7 +1,7 @@
 ### <h1 align="center"> Hi there 👋 I'm Shivani Bhalerao </h1>
 
 <p align="center">
-  <img height = "50%" width="50%" src="https://github.com/ShivaniBhalerao/ShivaniBhalerao/blob/main/wordcloud%20(1).jpg">
+  <img height = "31%" width="31%" src="https://github.com/ShivaniBhalerao/ShivaniBhalerao/blob/main/wordcloud%20(1).jpg">
 </p>
 
 <b> Passionate about leveraging tech to create high-impact solutions 🌐 </b>
