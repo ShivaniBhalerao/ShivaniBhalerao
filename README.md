@@ -22,7 +22,7 @@
       </div></td>
     <td><div style="width: 100%; text-align: center;">
       <p>
-        <a href="https://github.com/ShivaniBhalerao/Calendar-Search-Application"> Calendar Search </a>
+        <h3><a href="https://github.com/ShivaniBhalerao/Calendar-Search-Application"> Calendar Search </a></h3>
         This project improves the search experience in calendar applications by developing an efficient calendar text search application using NLP techniques and a combination of synonym similarity score and Levenshtein distance
       </p>
       </div></td>
@@ -36,7 +36,7 @@
       </div></td>
     <td><div style="width: 100%; text-align: center;">
       <p>
-        <a href="https://github.com/ShivaniBhalerao/AI-Agent-Connect4"> AI Agent Connect4 </a>
+        <h3><a href="https://github.com/ShivaniBhalerao/AI-Agent-Connect4"> AI Agent Connect4 </a></h3>
         Built AI agents for the connect-4 game using heuristics, decision tree, minimax with alpha-beta pruning, monte carlo and Q-learning algorithm
       </p>
       </div></td>
@@ -50,7 +50,7 @@
       </div></td>
     <td><div style="width: 100%; text-align: center;">
       <p>
-        <a href="https://github.com/ShivaniBhalerao/Task-Tracker-App"> Task Tracker App </a>
+        <h3><a href="https://github.com/ShivaniBhalerao/Task-Tracker-App"> Task Tracker App </a></h3>
         TaskTracker is a task delegation and reward-tracking app designed for people living with roommates or housemates. It allows users to assign individual tasks, monitor task status from a shared view, track rewards, and change coordinators cyclically to promote engagement. The goal of this project is to make sharing chores and tasks easier, more efficient, and more rewarding.
       </p>
       </div></td>
