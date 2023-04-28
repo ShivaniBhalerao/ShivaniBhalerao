@@ -12,9 +12,28 @@
 
 <h4> Interests: Full-Stack Software Engineering</h4>
 
+<h2> Projects </h2>
 
+<div style="display: flex; flex-direction: row; justify-content: center; align-items: center; width: 100%;">
+    <div style="width: 50%; text-align: center;">
+      <img src="project-image" alt="Project 1" width="80%">
+    </div>
+    <div style="width: 50%; text-align: center;">
+      <p>
+        Project 1
+      </p>
+    </div>
+    <div style="width: 50%; text-align: center;">
+      <img src="project-image2" alt="Project 2" width="80%">
+    </div>
+    <div style="width: 50%; text-align: center;">
+      <p>
+        Project 2
+      </p>
+    </div>
+  </div>
 
-<h4> Resume: <a href=""> Check this out! </a> </h4>
+<h4> Resume: <a href="https://github.com/ShivaniBhalerao/ShivaniBhalerao/blob/main/Shivani_Bhalerao.pdf"> Check this out! </a> </h4>
 
 <!--
 **ShivaniBhalerao/ShivaniBhalerao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
