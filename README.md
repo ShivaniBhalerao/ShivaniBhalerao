@@ -15,13 +15,13 @@
 <h2> Projects </h2>
 
   <!-- First row -->
-  <table>
+  <table border="none;">
   <tr>
   <div style="display: flex; flex-direction: row; justify-content: center; align-items: center; width: 100%;">
-    <td><div style="width: 50%; text-align: center;">
-      <img src="https://github.com/ShivaniBhalerao/ShivaniBhalerao/blob/main/calendar_search.jpeg" alt="calendar_search_image" width="30%" height="30%">
+    <td><div style="width: 100%; text-align: center;">
+      <img src="https://github.com/ShivaniBhalerao/ShivaniBhalerao/blob/main/calendar_search.jpeg" alt="calendar_search_image" width="50%" height="50%">
       </div></td>
-    <td><div style="width: 50%; text-align: center;">
+    <td><div style="width: 100%; text-align: center;">
       <p>
         Calendar Search
       </p>
@@ -32,10 +32,10 @@
   <!-- Second row -->
   <tr>
   <div style="display: flex; flex-direction: row; justify-content: center; align-items: center; width: 50%; margin-top: 20px;">
-    <td><div style="width: 50%; text-align: center;">
-      <img src="https://github.com/ShivaniBhalerao/ShivaniBhalerao/blob/main/connect4.png" alt="connect4_image" width="30%" height="30%">
+    <td><div style="width: 100%; text-align: center;">
+      <img src="https://github.com/ShivaniBhalerao/ShivaniBhalerao/blob/main/connect4.png" alt="connect4_image" width="50%" height="50%">
       </div></td>
-    <td><div style="width: 50%; text-align: center;">
+    <td><div style="width: 100%; text-align: center;">
       <p>
         Connect Four
       </p>
