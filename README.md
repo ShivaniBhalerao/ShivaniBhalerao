@@ -17,7 +17,7 @@
   <!-- First row -->
   <div style="display: flex; flex-direction: row; justify-content: center; align-items: center; width: 100%;">
     <div style="width: 50%; text-align: center;">
-      <img src="https://github.com/ShivaniBhalerao/ShivaniBhalerao/blob/main/calendar_search.jpeg" alt="calendar_search_image" width="40%">
+      <img src="https://github.com/ShivaniBhalerao/ShivaniBhalerao/blob/main/calendar_search.jpeg" alt="calendar_search_image" width="30%" height="30%">
     </div>
     <div style="width: 50%; text-align: center;">
       <p>
@@ -29,7 +29,7 @@
   <!-- Second row -->
   <div style="display: flex; flex-direction: row; justify-content: center; align-items: center; width: 50%; margin-top: 20px;">
     <div style="width: 50%; text-align: center;">
-      <img src="https://github.com/ShivaniBhalerao/ShivaniBhalerao/blob/main/connect4.png" alt="connect4_image" width="40%">
+      <img src="https://github.com/ShivaniBhalerao/ShivaniBhalerao/blob/main/connect4.png" alt="connect4_image" width="30%" height="30%">
     </div>
     <div style="width: 50%; text-align: center;">
       <p>
