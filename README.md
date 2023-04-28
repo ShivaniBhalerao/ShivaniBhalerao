@@ -17,11 +17,11 @@
   <!-- First row -->
   <div style="display: flex; flex-direction: row; justify-content: center; align-items: center; width: 100%;">
     <div style="width: 50%; text-align: center;">
-      <img src="image 1" alt="image 1" width="80%">
+      <img src="https://github.com/ShivaniBhalerao/ShivaniBhalerao/blob/main/calendar_search.jpeg" alt="calendar_search_image" width="80%">
     </div>
     <div style="width: 50%; text-align: center;">
       <p>
-        project 1
+        Calendar Search
       </p>
     </div>
   </div>
@@ -29,11 +29,11 @@
   <!-- Second row -->
   <div style="display: flex; flex-direction: row; justify-content: center; align-items: center; width: 100%; margin-top: 20px;">
     <div style="width: 50%; text-align: center;">
-      <img src="image 2" alt="image 2" width="80%">
+      <img src="https://github.com/ShivaniBhalerao/ShivaniBhalerao/blob/main/connect4.png" alt="connect4_image" width="80%">
     </div>
     <div style="width: 50%; text-align: center;">
       <p>
-        project 2
+        Connect Four
       </p>
     </div>
   </div>
