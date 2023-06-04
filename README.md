@@ -58,7 +58,7 @@
   </tr>
   </table>
   
-<h4> Resume: <a href="https://github.com/ShivaniBhalerao/ShivaniBhalerao/blob/main/Shivani_Bhalerao.pdf"> Check this out! </a> </h4>
+<h4> Resume: <a href="https://github.com/ShivaniBhalerao/ShivaniBhalerao/blob/main/Shivani_Ghanashyam_Bhalerao.pdf"> Check this out! </a> </h4>
 
 <!--
 **ShivaniBhalerao/ShivaniBhalerao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
