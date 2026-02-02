@@ -15,6 +15,20 @@
 <h2> Projects </h2>
 
   <table border="none;">
+   <tr>
+  <div style="display: flex; flex-direction: row; justify-content: center; align-items: center; width: 100%;">
+    <td><div style="width: 100%; text-align: center;">
+      <img src="https://github.com/ShivaniBhalerao/ShivaniBhalerao/blob/main/calendar_search.jpeg" alt="calendar_search_image" width="100%" height="100%">
+      </div></td>
+    <td><div style="width: 100%; text-align: center;">
+      <p>
+        <h3><a href="https://github.com/ShivaniBhalerao/WalletAI"> WalletAI - A Personal Finance Agentic AI </a></h3>
+        WalletAI is an intelligent personal finance assistant that connects to your bank accounts via Plaid and uses Google Gemini AI to answer questions about your spending habits, transactions, and financial patterns through natural language conversations.
+      </p>
+      </div></td>
+  </div>
+  </tr>
+    
   <tr>
   <div style="display: flex; flex-direction: row; justify-content: center; align-items: center; width: 100%;">
     <td><div style="width: 100%; text-align: center;">
