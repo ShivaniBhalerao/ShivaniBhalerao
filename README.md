@@ -22,7 +22,7 @@
       </div></td>
     <td><div style="width: 100%; text-align: center;">
       <p>
-        <h3><a href="https://github.com/ShivaniBhalerao/WalletAI"> WalletAI - A Personal Finance Agentic AI </a></h3>
+        <h3><a href="https://github.com/ShivaniBhalerao/WalletAI"> WalletAI - A Personal Finance AI Agent</a></h3>
         WalletAI is an intelligent personal finance assistant that connects to your bank accounts via Plaid and uses Google Gemini AI to answer questions about your spending habits, transactions, and financial patterns through natural language conversations.
       </p>
       </div></td>
