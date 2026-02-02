@@ -18,7 +18,7 @@
    <tr>
   <div style="display: flex; flex-direction: row; justify-content: center; align-items: center; width: 100%;">
     <td><div style="width: 100%; text-align: center;">
-      <img src="https://github.com/ShivaniBhalerao/ShivaniBhalerao/blob/main/calendar_search.jpeg" alt="calendar_search_image" width="100%" height="100%">
+      <img src="https://github.com/ShivaniBhalerao/ShivaniBhalerao/blob/main/wallet-ai-logo.png" alt="wallet-ai-logo" width="100%" height="100%">
       </div></td>
     <td><div style="width: 100%; text-align: center;">
       <p>
